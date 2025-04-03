@@ -22,7 +22,7 @@ Etapa 2:
 
 Etapa 3:
 - [Amazon Auto Scaling]
-- [Escalonamento vertical]
+- [Escalonamento horizontal]
 - [Vai aumentar a capacidade computacional do seu site, em tempos de pico de acesso, e quando voltar o trafego normal, a capacidade diminui automaticamente.]
 
 
